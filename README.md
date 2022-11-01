@@ -7,7 +7,7 @@ A bilingual Tech Blog website with quality translation support.
 #### 目标用户 Target Users
 
 - 想阅读英文技术博客并提升英语的非英语母语开发者 
-- Developers who would like to read English tech blog and improve English 
+- Non-native English Speaking Developers who would like to read English tech blog and improve English 
 
 #### 核心功能 Core Functions
 
